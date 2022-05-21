@@ -3,7 +3,7 @@ A GUI program to update Arch Linux and Yay (AUR)
 
 ## Prerequisites
 
-* **wget** >= 3.5
+* **wget**
 * **gksu**
 
 ## Instructions
