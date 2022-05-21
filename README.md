@@ -5,10 +5,12 @@ A GUI program to update Arch Linux and Yay (AUR)
 
 * **wget**
 * **gksu**
+* **qt5**
 
 ## Instructions
 ```
 $ yay -S gksu
+$ sudo pacman -S qt5
 ```
 Download the **install.sh** script
 ```
