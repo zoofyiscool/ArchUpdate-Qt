@@ -9,6 +9,7 @@ wget https://github.com/zoofyiscool/ArchUpdate-Qt/raw/main/bin/UpdateArch
 echo Installation process starting!
 cp UpdateArch /usr/bin/UpdateArch
 touch /usr/share/applications/UpdateArch.desktop
+chmod +x /usr/bin/UpdateArch
 echo "
 [Desktop Entry]
 Type=Application
